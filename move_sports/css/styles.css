@@ -1,0 +1,103 @@
+/* Choose Google font for h1,h2 and a's */
+
+p {
+	/* font-family: Helvetica, Arial,sans-serif; */
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+.container {
+	width: 940px;
+	margin: 0 auto;
+}
+
+/* Main */
+
+.main {
+	text-align: center;
+	height: 600px;
+	background: URL("../images/bg.jpg");
+	
+}
+
+.main h1 {
+	font-size: 150px;
+	color: white;
+	margin-top: 0;
+}
+
+.main p {
+	font-size: 18px;
+	color: white;
+}
+
+.btn {
+	background-color: #6a5acd;
+	text-decoration: none;
+	padding: 8px 30px;
+	font-size: 18px;
+	color: #1c1c1c;
+	font-weight: bold;
+	border: 1px solid black;
+}
+
+/* Supporting */
+
+.supporting {
+	text-align: center;
+	padding: 50px 80px;
+	background-color: #1c1c1c;
+	
+}
+.col {
+	float: left;
+	width: 28%;
+	padding: 10px;
+	margin: 0 14px;
+}
+.supporting h2 {
+	color: #ffffff;
+	font-size: 40px;
+	margin-bottom: 10px;
+	
+	}
+.supporting p{
+	color: #ffffff;
+	line-height: 20px;
+}
+.clearfix {
+	clear: both;
+}
+/* Feature */
+
+.feature {
+	height: 500px;
+	background: URL("../images/feature.jpg");
+	
+}
+.feature h2 {
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	margin: 0;
+	padding: 220px 0;
+	
+}
+
+/* footer */
+
+.footer {
+	height: 200px;
+	text-align: center;
+	background: URL("../images/footer.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.footer h2 {
+	color: white;
+	font-size: 40px;
+	margin: 0 0 20px 0;
+	padding: 50px 0;
+}
+.footer .btn {
+	margin-top:
+}
